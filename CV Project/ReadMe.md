@@ -21,3 +21,12 @@ Steps:
 - Open the back-end folder in IDE (pycharm) and check the readme.md document. Install the packages mentioned here. Run sender.py using the command “python3 sender.py”.
 - Now, open the browser link and select a doodle model. Once you select a model you want to draw doodles on, click on the button. It will start your webcam. Now, use a red pen/rubix cube to draw the shape you want.
 Keep in mind that the webcam automatically stops after 10 seconds. Then go to the browser and double-click on the back canvas. This will draw the points and generate 5-6 doodles and simultaneously save these as images in the downloads folder.
+
+
+Outcome:
+<img width="741" alt="image" src="https://github.com/deepikaKini/CSCI-631-Computer-Vision/assets/115019544/3134b576-ef54-4400-9641-a4843ebae027">
+
+<img width="558" alt="image" src="https://github.com/deepikaKini/CSCI-631-Computer-Vision/assets/115019544/1a81c01e-27c7-475f-a210-97e25a7ba59c">
+
+<img width="712" alt="image" src="https://github.com/deepikaKini/CSCI-631-Computer-Vision/assets/115019544/d945dfb8-3cb3-4d84-a537-88d33f450b2d">
+
